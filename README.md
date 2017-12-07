@@ -1,4 +1,6 @@
 # Tetrahedron
+![square_pyramid](https://user-images.githubusercontent.com/22828501/33727067-d81fd3d0-db2b-11e7-99f6-11f898d18b81.png)
+
 This is the Final Project for P5 AP Computer Science Principles.
 
 ## Game Logic
