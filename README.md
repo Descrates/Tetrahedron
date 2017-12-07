@@ -12,5 +12,6 @@ Tetrahedron is a 2D, top-down, shooter/platformer. It's geometry themed, so the 
 ## Logic
 - The game has 50 levels, each harder and harder to beat. This game is designed like Pac-Man or Donkey Kong. Only skilled players can beat it. 
 - This game has a Score Counter, anytime you kill a Triangle Polygon, you are awarded 500 points. Anytime you beat a level, you are awarded 1000 points. 
+- You have 3 lives, with achieving 100,000 points awarding you with an extra life.
 
 
